@@ -1,0 +1,286 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Buy one get one free\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-05 03:55+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.3; wp-5.7.2\n"
+"X-Domain: buy-one-get-one-free-woocommerce"
+
+#: admin/class-buy-one-get-one-free-woocommerce-option.php:38
+msgid "Allow user to change the variation of the free product"
+msgstr ""
+
+#: admin/class-buy-one-get-one-free-woocommerce-option.php:42
+msgid "Allow user to remove free product from the cart"
+msgstr ""
+
+#: admin/class-buy-one-get-one-free-woocommerce-option.php:105
+msgid "Basic setting"
+msgstr ""
+
+#: admin/class-buy-one-get-one-free-woocommerce-admin-menu.php:20
+#: admin/class-buy-one-get-one-free-woocommerce-admin-menu.php:21
+msgid "BOGO Deal"
+msgstr ""
+
+#: public/class-woo.php:72
+msgid "Buy [buy_quantity] get [free_quantity] free"
+msgstr ""
+
+#: public/class-woo.php:74
+msgid ""
+"Buy [buy_quantity] of [parent_name] get [free_quantity] of [free_name] free"
+msgstr ""
+
+#. Name of the plugin
+msgid "Buy one get one free"
+msgstr ""
+
+#: buy-one-get-one-free-woocommerce.php:106
+msgid "Buy PRO Version"
+msgstr ""
+
+#: admin/class-buy-one-get-one-free-woocommerce-product.php:32
+msgid "Buy PRO version of BOGO plugin to access more advanced features."
+msgstr ""
+
+#. Description of the plugin
+msgid "Buy X and Get Y unit of product free kind for Deals in WooCommerce"
+msgstr ""
+
+#: admin/class-buy-one-get-one-free-woocommerce-option.php:26
+msgid "Buy X Get Y Free"
+msgstr ""
+
+#: admin/class-buy-one-get-one-free-woocommerce-option.php:30
+msgid "Buy X quantity of product to get Y quantity free"
+msgstr ""
+
+#: admin/class-buy-one-get-one-free-woocommerce-option.php:53
+msgid "Category level rules"
+msgstr ""
+
+#: admin/class-buy-one-get-one-free-woocommerce-cat-message.php:76
+msgid "Category Message (PRO)"
+msgstr ""
+
+#: admin/class-buy-one-get-one-free-woocommerce-category.php:69
+msgid "Category rules"
+msgstr ""
+
+#: admin/class-buy-one-get-one-free-woocommerce-option.php:36
+msgid "Change variation of free product"
+msgstr ""
+
+#: admin/class-buy-one-get-one-free-woocommerce-option.php:40
+msgid "Change variation text shown next to the variable free product"
+msgstr ""
+
+#: admin/class-buy-one-get-one-free-woocommerce-option.php:28
+msgid "Disable BOGO"
+msgstr ""
+
+#: admin/class-buy-one-get-one-free-woocommerce-option.php:28
+msgid "Disable BOGO rule globally"
+msgstr ""
+
+#: admin/class-buy-one-get-one-free-woocommerce-product.php:25
+msgid "Enable BOGO"
+msgstr ""
+
+#: admin/class-buy-one-get-one-free-woocommerce-product.php:28
+msgid "Enable BOGO for this product"
+msgstr ""
+
+#: admin/class-buy-one-get-one-free-woocommerce-option.php:32
+msgid "How much quantity of the product will be given free"
+msgstr ""
+
+#: admin/class-buy-one-get-one-free-woocommerce-cat-message.php:26
+msgid ""
+"If enabled this will show the category level deal description on the "
+"respective category page"
+msgstr ""
+
+#: admin/class-buy-one-get-one-free-woocommerce-option.php:34
+msgid ""
+"If left blank same product will be given free in bogo offer, (You can only "
+"select simple product)"
+msgstr ""
+
+#: admin/class-buy-one-get-one-free-woocommerce-option.php:55
+msgid ""
+"If there is a deal available on a product based on the category level BOGO "
+"rule then you can show that deal as well on the single product page"
+msgstr ""
+
+#: admin/class-buy-one-get-one-free-woocommerce-option.php:38
+msgid ""
+"If you are offering variable product as free and this option is enabled then "
+"user will be able to change the variation of the free product, this will not "
+"work for the offer of type Buy A and Get A free "
+msgstr ""
+
+#: admin/class-buy-one-get-one-free-woocommerce-option.php:42
+msgid ""
+"If you enable this, then the customer will have the option to remove the "
+"free product from the cart if they don't want it"
+msgstr ""
+
+#: admin/class-buy-one-get-one-free-woocommerce-option.php:44
+msgid "Maximum Quantity that will be given free"
+msgstr ""
+
+#: admin/class-buy-one-get-one-free-woocommerce-cat-message.php:36
+#: admin/class-buy-one-get-one-free-woocommerce-option.php:50
+msgid "Message background color"
+msgstr ""
+
+#: admin/class-buy-one-get-one-free-woocommerce-option.php:48
+msgid "Message shown before the order start time"
+msgstr ""
+
+#: admin/class-buy-one-get-one-free-woocommerce-cat-message.php:34
+msgid "Message shown on category page describing the offer"
+msgstr ""
+
+#: admin/class-buy-one-get-one-free-woocommerce-option.php:48
+msgid ""
+"Message shown on the product page before the offer start time, if it offer "
+"free product, use this short codes, [free_name], [buy_quantity], "
+"[free_quantity], [free_price], [start_date_time], [end_date_time], "
+"[start_date], [end_date], [start_time], [end_time]"
+msgstr ""
+
+#: admin/class-buy-one-get-one-free-woocommerce-option.php:57
+msgid ""
+"Message shown on the product page if it offer free product, [free_name], "
+"[buy_quantity], [free_quantity], [free_price], [start_date_time], "
+"[end_date_time], [start_date], [end_date], [start_time], [end_time]"
+msgstr ""
+
+#: admin/class-buy-one-get-one-free-woocommerce-option.php:46
+msgid ""
+"Message shown on the product page if it offer free product, use this short "
+"codes, [free_name], [buy_quantity], [free_quantity], [free_price], "
+"[start_date_time], [end_date_time], [start_date], [end_date], [start_time], "
+"[end_time]"
+msgstr ""
+
+#: admin/class-buy-one-get-one-free-woocommerce-option.php:46
+#: admin/class-buy-one-get-one-free-woocommerce-option.php:57
+msgid "Message shown once the offer has started"
+msgstr ""
+
+#: admin/class-buy-one-get-one-free-woocommerce-cat-message.php:24
+msgid "Message template based on the deal type in category"
+msgstr ""
+
+#: admin/class-buy-one-get-one-free-woocommerce-cat-message.php:28
+msgid ""
+"Message template used when category deal type is <strong class=\"text-"
+"primary\">Buy product A and get product A Free</strong>"
+msgstr ""
+
+#: admin/class-buy-one-get-one-free-woocommerce-cat-message.php:30
+msgid ""
+"Message template used when category deal type is <strong class=\"text-"
+"primary\">Buy product A and get product B Free</strong>"
+msgstr ""
+
+#: admin/class-buy-one-get-one-free-woocommerce-cat-message.php:32
+msgid ""
+"Message template used when category deal type is <strong class=\"text-"
+"primary\">Buy product from category get product B Free</strong>"
+msgstr ""
+
+#: admin/class-buy-one-get-one-free-woocommerce-cat-message.php:37
+#: admin/class-buy-one-get-one-free-woocommerce-option.php:51
+msgid "Message text color"
+msgstr ""
+
+#. Author of the plugin
+msgid "PI Websolution"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "piwebsolution.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "piwebsolution.com/bogo-deals-woocommerce"
+msgstr ""
+
+#: buy-one-get-one-free-woocommerce.php:56
+msgid ""
+"Please Install and Activate WooCommerce plugin, without that this plugin "
+"cant work"
+msgstr ""
+
+#: admin/class-buy-one-get-one-free-woocommerce-option.php:34
+msgid "Product given for free"
+msgstr ""
+
+#: admin/class-buy-one-get-one-free-woocommerce-option.php:32
+msgid "Quantity of product given free"
+msgstr ""
+
+#: admin/class-buy-one-get-one-free-woocommerce-option.php:30
+msgid "Quantity of product to buy"
+msgstr ""
+
+#: admin/class-buy-one-get-one-free-woocommerce-cat-message.php:93
+#: admin/class-buy-one-get-one-free-woocommerce-option.php:123
+msgid "Save Option"
+msgstr ""
+
+#: admin/class-buy-one-get-one-free-woocommerce-option.php:44
+msgid ""
+"Say 1 unit of Product A gives 1 unit of B and max quantity is 2 then, when "
+"you adds 3 unit of A the quantity of Free B will be kept at 2 only as Max "
+"quantity is 2 (without max quantity restriction it would have been 3)"
+msgstr ""
+
+#: buy-one-get-one-free-woocommerce.php:105
+msgid "Settings"
+msgstr ""
+
+#: admin/class-buy-one-get-one-free-woocommerce-option.php:55
+msgid "Show deal message generated by category"
+msgstr ""
+
+#: admin/class-buy-one-get-one-free-woocommerce-cat-message.php:26
+msgid "Show deal message on category page"
+msgstr ""
+
+#: admin/class-buy-one-get-one-free-woocommerce-option.php:40
+msgid ""
+"This text will be shown below the free product so user can change the free "
+"product variation on cart and checkout page"
+msgstr ""
+
+#: admin/class-buy-one-get-one-free-woocommerce-cat-message.php:30
+#: admin/class-buy-one-get-one-free-woocommerce-cat-message.php:32
+msgid ""
+"you can use this codes [buy_quantity] [free_quantity] [free_name] [limit]"
+msgstr ""
+
+#: admin/class-buy-one-get-one-free-woocommerce-cat-message.php:28
+msgid "you can use this codes [buy_quantity] [free_quantity] [limit]"
+msgstr ""
+
+#: buy-one-get-one-free-woocommerce.php:43
+msgid ""
+"You have the PRO version of <strong>Buy one get one free</strong> plugin "
+"active, deactivate it then you can use free version"
+msgstr ""
